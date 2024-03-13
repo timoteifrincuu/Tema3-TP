@@ -1,9 +1,23 @@
 .container{
     width: 40px;
     height: 40px;
-    background-color: rgb(240, 167, 197);
+    background-color: rgb(251, 216, 230);
     border-radius: 20%;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.container2{
+    width: 150px;
+    height: 60px;
+    background-color: rgb(185, 179, 181);
+    border-radius: 10%;
+    justify-content: center;
+    align-items: center;
+}
+p {
+    text-indent: 20px;
+}
+h4 {
+    text-indent: 20px;
 }
